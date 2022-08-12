@@ -1,0 +1,5 @@
+.cached_costs*
+.venv
+.ipynb_checkpoints
+test.py
+geckodriver.log
